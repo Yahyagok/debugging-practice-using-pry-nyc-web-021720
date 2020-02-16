@@ -1,4 +1,4 @@
 def plus_two(num=3)
 	num + 2
 end
-plus(3)
+plus_two(3)
